@@ -73,3 +73,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Whitelist XV3dGS plugin prebuilt binaries (no source provided)
+!Plugins/XV3dGS/Binaries/
+!Plugins/XV3dGS/Binaries/Win64/
+!Plugins/XV3dGS/Binaries/Win64/**
